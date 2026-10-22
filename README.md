@@ -6,16 +6,16 @@ A fast, offline-first PDF viewer and tool suite for Windows, by **HyperDIM Innov
 
 Get the Windows installer from the [Releases page](../../releases/latest).
 
-- File: `HyperPDF Setup 1.1.0.exe`
+- File: `HyperPDF.Setup.1.1.0.exe`
 - Verify the download with `SHA256SUMS.txt`:
 
 ```
-certutil -hashfile "HyperPDF Setup 1.1.0.exe" SHA256
+certutil -hashfile "HyperPDF.Setup.1.1.0.exe" SHA256
 ```
 
 ## Install
 
-1. Run `HyperPDF Setup 1.1.0.exe`.
+1. Run `HyperPDF.Setup.1.1.0.exe`.
 2. Follow the installer. Choose the install folder if you want.
 3. If Windows SmartScreen shows a warning, select **More info** → **Run anyway**.
 4. Launch **HyperPDF** from the Start menu, or right-click any PDF → **Open with** → **HyperPDF**.

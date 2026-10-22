@@ -1,1 +1,1 @@
-eebcc6128a7d263c17ea6a97e93b34f68b0b8d32d0b09bbc094efa69d1e21835 *HyperPDF Setup 1.1.0.exe
+eebcc6128a7d263c17ea6a97e93b34f68b0b8d32d0b09bbc094efa69d1e21835  HyperPDF.Setup.1.1.0.exe
