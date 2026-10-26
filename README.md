@@ -6,7 +6,7 @@ A fast, simple PDF viewer and toolkit for Windows.
 
 Get the latest installer from the [Releases page](https://github.com/asankawaga/Hyperpdf---release/releases).
 
-File: `HyperPDF Setup 1.2.0.exe`
+File: `HyperPDF.Setup.1.2.0.exe`
 Verify it with `SHA256SUMS.txt` (SHA-256 `990850f501aaad905b48ace5967fec3158de1927796f0b16c1add475b15d7b48`).
 
 ## System requirements
@@ -16,7 +16,7 @@ Verify it with `SHA256SUMS.txt` (SHA-256 `990850f501aaad905b48ace5967fec3158de19
 
 ## Install
 
-1. Download `HyperPDF Setup 1.2.0.exe`.
+1. Download `HyperPDF.Setup.1.2.0.exe`.
 2. Double-click the file and follow the installer steps.
 3. Launch HyperPDF from the Start menu or desktop shortcut.
 
