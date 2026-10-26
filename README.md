@@ -1,45 +1,36 @@
 # HyperPDF
 
-A fast, offline-first PDF viewer and tool suite for Windows, by **HyperDIM Innovation**.
+A fast, simple PDF viewer and toolkit for Windows.
 
 ## Download
 
-Get the Windows installer from the [Releases page](../../releases/latest).
+Get the latest installer from the [Releases page](https://github.com/asankawaga/Hyperpdf---release/releases).
 
-- File: `HyperPDF.Setup.1.1.0.exe`
-- Verify the download with `SHA256SUMS.txt`:
-
-```
-certutil -hashfile "HyperPDF.Setup.1.1.0.exe" SHA256
-```
-
-## Install
-
-1. Run `HyperPDF.Setup.1.1.0.exe`.
-2. Follow the installer. Choose the install folder if you want.
-3. If Windows SmartScreen shows a warning, select **More info** → **Run anyway**.
-4. Launch **HyperPDF** from the Start menu, or right-click any PDF → **Open with** → **HyperPDF**.
-
-## Uninstall
-
-- Windows Settings → **Apps** → **Installed apps** → **HyperPDF** → **Uninstall**.
-
-## What's inside
-
-- View PDFs: zoom, rotate, search, thumbnails, text selection, print
-- Open password-protected PDFs
-- Rotate, merge, split, and export pages, fully offline
-- Compress PDFs
-- Sign PDFs with a drawn signature
-
-Some tools require a license key.
+File: `HyperPDF Setup 1.2.0.exe`
+Verify it with `SHA256SUMS.txt` (SHA-256 `990850f501aaad905b48ace5967fec3158de1927796f0b16c1add475b15d7b48`).
 
 ## System requirements
 
 - Windows 10 or Windows 11, 64-bit
-- About 250 MB of free disk space
+- About 500 MB of free disk space
+
+## Install
+
+1. Download `HyperPDF Setup 1.2.0.exe`.
+2. Double-click the file and follow the installer steps.
+3. Launch HyperPDF from the Start menu or desktop shortcut.
+
+### First launch: SmartScreen
+
+Windows may show "Windows protected your PC" the first time you run the installer.
+Click **More info**, then **Run anyway**. This appears for new releases
+until Windows builds reputation for the file.
+
+## Uninstall
+
+Open **Settings > Apps > Installed apps**, select **HyperPDF**, and choose **Uninstall**.
 
 ## Support
 
-- Found a bug or have a feature request? Open an [issue](../../issues).
-- Security problems: see [SECURITY.md](SECURITY.md). Do not post them as public issues.
+Questions or problems: https://github.com/asankawaga/Hyperpdf---release/issues. To report a bug, use the
+[issue form](https://github.com/asankawaga/Hyperpdf---release/issues/new/choose).

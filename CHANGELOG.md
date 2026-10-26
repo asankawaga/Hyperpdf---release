@@ -1,31 +1,19 @@
 # Changelog
 
-## 1.1.0
-
-First desktop release of HyperPDF for Windows.
+## 1.2.0
 
 ### New
-- Desktop app with a document-first viewer: open a PDF and work on it directly.
-- Print support, with a print dialog.
-- Search with cancel, and Help / About screens.
-- Document tabs for working with several PDFs.
-- Sign PDFs by drawing a signature and placing it on a page.
-- Open password-protected PDFs: you are asked for the password.
-- Rotate, merge, split, and export pages, fully offline.
-- Right-click menu with Copy, Cut, and Paste.
+- Split a PDF by page ranges, such as `1-2, 5`, as well as every N pages.
+- Merge PDFs at the start, at the end, or after a chosen page.
+- Sign: preview your signature on the page and click to place it.
+- Convert a PDF to text, with progress, and save the result as a `.txt` file.
 
-### Improved
-- Sharper page rendering.
-- Text selection and copy work reliably in the viewer.
-- Fit-to-page sizing is accurate.
-- Lower memory use when pages are closed.
-- Damaged pages no longer crash the viewer, search, or thumbnails.
-- Faster installation.
+### Changes
+- New HyperPDF app icon.
 
-### Fixed
-- The installer no longer crashes when it starts.
-- The empty-state screen sits correctly below the title bar.
-
-### Security
-- Updated the PDF rendering engine to fix a known security issue.
-- Tightened the app's security settings.
+### Fixes
+- Signatures now apply correctly.
+- Status messages in tool panels stay visible.
+- Long tool names in the sidebar no longer spill outside their buttons.
+- On narrow windows, tool panels float over the document instead of squeezing it.
+- Fixed the empty-state card position under the title bar.
