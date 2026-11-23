@@ -1,2 +1,8 @@
 *.exe
 *.blockmap
+*.pfx
+*.p12
+*.env
+node_modules/
+dist/
+build/

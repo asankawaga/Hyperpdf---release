@@ -1,5 +1,20 @@
 # Changelog
 
+## 1.3.0
+
+### New
+- Text box: type text, choose its color and size, and click the page to place it.
+- Edit text: select text in a page, change it, and apply. The old text is covered with white, not erased from the file.
+- Print dialog with a page preview, printer choice, page range, copies, orientation, color and two-sided options.
+- Free registered license with a key tied to your computer.
+- Pages, Stamp, Markup and Navigate tools in the Edit section.
+
+### Fixes
+- When zoomed in, you can now scroll to see the whole page, including the left edge.
+- Print preview now shows the page.
+- Selecting text is more accurate: dragging no longer jumps to the end of the page.
+
+
 ## 1.2.0
 
 ### New
